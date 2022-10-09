@@ -5,3 +5,4 @@ Instalar a versão mais recente do python
 Ter uma IDE instalada em seu dispositivo
 Instalar no python a biblioteca SpeechRecognition
 Instalar também a extensão PyAudio correspondente a versao do Python instalada em  seu dispositivo
+Link para download do PyAudio: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
